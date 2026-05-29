@@ -1,0 +1,16 @@
+---
+name: Python Code Reviewer
+type: agent
+version: 1.0.0
+tags: [python, review]
+description: Reviews Python code for best practices
+---
+
+# Python Code Reviewer
+
+This skill reviews Python code for style, correctness, and best practices.
+
+## What it does
+- Checks PEP 8 compliance
+- Identifies potential bugs
+- Suggests improvements
